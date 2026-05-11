@@ -279,13 +279,7 @@ uart-traffic-controller/
 ---
 
 ## Design Constraints
-
-Per CEG3155 Project, Section 7:
-
-- VHDL only — Verilog not accepted
-- Structural RTL only — behavioral modeling not accepted (except `clk_div`)
+- VHDL only
+- Structural RTL only
 - All atomic modules built from `enARdFF_2` primitives
-- No IP core instantiations
 - Synchronous design with global clock and asynchronous global reset throughout
-- Mealy or Moore FSM implementations permitted
-- Modules from previous laboratories may be reused
