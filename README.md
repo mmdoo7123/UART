@@ -1,9 +1,7 @@
 # UART Transceiver with Debuggable Traffic Light Controller
 
-**University of Ottawa — CEG3155 Digital Systems II | Fall 2025**  
 **Tools:** Quartus II · ModelSim · Altera Cyclone IV FPGA (DE2-115) · MAX232  
-**Language:** Structural VHDL (RTL only — no behavioral modeling)  
-**Author:** Mahmoud Zourob
+**Language:** Structural VHDL
 
 ---
 
